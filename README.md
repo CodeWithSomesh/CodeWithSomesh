@@ -4,11 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student. On My Journey to be a Full-Stack Developer.
 ----------------------------------------------------
 
-I have completed my Diploma in Computer Science at Inti International College, Penang, Malaysia. I have learned languages such as Python, C++, Java, and Xamarin as well as principles of UX & UI Design. I ultimately decided to be a Web Developer as I am passionate about creating a web design from scratch and turning it into a beautiful and completely functional website.
+I have completed my Diploma in Computer Science at Inti International College, Penang, Malaysia. I have learned languages such as Python, C++, Java, and Xamarin as well as principles of UX & UI Design. 
+
+I ultimately decided to be a Web Developer as I am passionate about creating a web design from scratch and turning it into a beautiful and completely functional website.
 
 *   🌍  I'm based in Penang, Malaysia
 *   ✉️  You can contact me at [codewithsomesh@gmail.com](mailto:codewithsomesh@gmail.com)
-*   🧠  I'm learning The Complete 2023 Web Development Course by Angela Yu
+*   💪  Portfolio Website is in the making
+*   🧠  I'm learning The Complete 2023 Web Development Course by Angela Yu
 *   🤝  I'm open to collaborating on Beginner Level Projects
 *   ⚡  I love Cafe Hunting, Anime, Webtoons & Movies### Skills 
 <p align="left">
