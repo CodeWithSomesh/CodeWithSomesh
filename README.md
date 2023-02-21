@@ -13,7 +13,7 @@ I ultimately decided to be a Web Developer as I am passionate about creating a w
 *   💪  Portfolio Website is in the making
 *   🧠  I'm learning The Complete 2023 Web Development Course by Angela Yu
 *   🤝  I'm open to collaborating on Beginner Level Projects
-*   💖  I love Cafe Hunting, Anime, Webtoons & Movies
+*   💖  I love Cafe Hopping, Anime, Webtoons & Movies
  
 ### Skills 
 <p align="left">
