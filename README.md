@@ -11,7 +11,7 @@ I ultimately decided to be a Web Developer as I am passionate about creating a w
 *   🌍  I'm based in Penang, Malaysia
 *   ✉️  You can contact me at [codewithsomesh@gmail.com](mailto:codewithsomesh@gmail.com)
 *   💪  Portfolio Website is in the making
-*   🧠  I'm learning The Complete 2023 Web Development Course by Angela Yu
+*   🧠  I'm currently learning JavaScript & React
 *   🤝  I'm open to collaborating on Beginner Level Projects
 *   💖  I love Cafe Hopping, Anime, Webtoons & Movies
  
