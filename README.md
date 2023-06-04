@@ -8,9 +8,6 @@ I have completed my Diploma in Computer Science at Inti International College, P
 
 I ultimately decided to be a Web Developer as I am passionate about creating a web design from scratch and turning it into a beautiful and completely functional website.
 
-
-I ultimately decided to be a Web Developer as I am passionate about creating a web design from scratch and turning it into a beautiful and completely functional website.
-
 *   🌍  I'm based in Penang, Malaysia
 *   ✉️  You can contact me at [codewithsomesh@gmail.com](mailto:codewithsomesh@gmail.com)
 *   💪  Portfolio Website is in the making
