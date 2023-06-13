@@ -42,7 +42,9 @@ I ultimately decided to be a Web Developer as I am passionate about creating a w
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<br>
+
+### My GitHub Stats 
 
 
 <a href="http://www.github.com/CodeWithSomesh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithSomesh&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
