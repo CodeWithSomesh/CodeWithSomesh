@@ -40,9 +40,6 @@ I ultimately decided to be a Web Developer as I am passionate about creating a w
 
 <br>
 
-### Badges
-
-<br>
 
 ### My GitHub Stats 
 
