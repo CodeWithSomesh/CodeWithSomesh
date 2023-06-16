@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FrontEnd Developer. On My Journey to be a Full-Stack Developer.
 ----------------------------------------------------
 
-I have completed my Diploma in Computer Science at Inti International College, Penang, Malaysia. I have learned principles of UX & UI Design, programming languages such as Python, C++, Java, Xamarin as well as software, including Oracle and Ubuntu. 
+I completed my Computer Science Diploma at Inti International College, Penang, Malaysia. I have learned principles of UX & UI Design, programming languages such as Python, C++, Java, and Xamarin as well as software, including R Studios, Oracle, Ubuntu, and OpenMandriva. 
 
 I ultimately decided to be a Web Developer as I am passionate about creating a web design from scratch and turning it into a beautiful and completely functional website.
 
