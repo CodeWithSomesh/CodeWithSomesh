@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Someshwar Rao
 =====================================================================================================================================
 
-Student. On My Journey to be a Full-Stack Developer.
+FrontEnd Developer. On My Journey to be a Full-Stack Developer.
 ----------------------------------------------------
 
-I have completed my Diploma in Computer Science at Inti International College, Penang, Malaysia. I have learned languages such as Python, C++, Java, and Xamarin as well as principles of UX & UI Design. 
+I have completed my Diploma in Computer Science at Inti International College, Penang, Malaysia. I have learned principles of UX & UI Design, programming languages such as Python, C++, Java, Xamarin as well as software, including Oracle and Ubuntu. 
 
 I ultimately decided to be a Web Developer as I am passionate about creating a web design from scratch and turning it into a beautiful and completely functional website.
 
 *   🌍  I'm based in Earth 616
 *   ✉️  You can contact me at [codewithsomesh@gmail.com](mailto:codewithsomesh@gmail.com)
 *   💪  Portfolio Website is in the making
-*   🧠  I'm currently learning JavaScript & React
+*   🧠  I'm currently learning React & Next,js
 *   🤝  I'm open to collaborating on Beginner Level Projects
 *   💖  I love Cafe Hopping, Anime, Webtoons & Movies
 
