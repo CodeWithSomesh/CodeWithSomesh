@@ -1,19 +1,30 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Someshwar Rao
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Someshwar Rao
 =====================================================================================================================================
 
-Student Developer. On My Journey to be a Full-Stack Developer.
+Student Developer. Full-Stack MERN Developer.
 ----------------------------------------------------
 
-I completed my Computer Science Diploma at Inti International College, Penang, Malaysia. I have learned principles of UX & UI Design, programming languages such as Python, C++, Java, and Xamarin as well as software, including R Studios, Oracle, Ubuntu, and OpenMandriva. 
+🎓 I'm a Computer Science enthusiast who graduated from Inti International College, with a Diploma in Computer Science. Currently, I'm advancing my knowledge by pursuing a Bachelor of Science with Honours in Computing in collaboration with Coventry University, UK, at Inti International College, Penang, Malaysia.
 
-I ultimately decided to be a Web Developer as I am passionate about creating a web design from scratch and turning it into a beautiful and completely functional website. 
+💻 Over the past year, I've immersed myself in the world of full-stack web development, specializing in the MERN Stack. My passion for this technology stack is evident in the projects I've undertaken, all of which showcase my commitment to creating seamless and efficient web applications.
+
+🚀 On my journey to becoming a 10x Fullstack Web Developer. I take pride in turning web designs into polished and fully functional websites. Check out my portfolio website for a glimpse of some noteworthy projects that reflect my dedication to this craft.
+
+✨ Let's code and build something amazing together! 
 
 *   🌍  I'm based in Earth 616
 *   ✉️  You can contact me at [codewithsomesh@gmail.com](mailto:codewithsomesh@gmail.com)
 *   💪  Portfolio Website is in the making
-*   🧠  I'm currently learning the MERN Stack
-*   🤝  I'm open to collaborating on Beginner Level Projects
+*   🧠  I'm currently learning TypeScript and Next JS
+*   🤝  I'm open to collaborating on MERN Stack Projects
 *   💖  I love Cafe Hopping, Anime, Webtoons & Movies
+
+<br>
+
+### Socials
+<p align="left">
+<a href="https://www.github.com/CodeWithSomesh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/CodeWithMesh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 <br>
 
@@ -37,13 +48,6 @@ I ultimately decided to be a Web Developer as I am passionate about creating a w
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
-<br>
-
-### Socials
-<p align="left">
-<a href="https://www.github.com/CodeWithSomesh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/CodeWithMesh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 <br>
 
