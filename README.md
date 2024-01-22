@@ -1,7 +1,7 @@
 Hi, I'm Someshwar Rao ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
-Student Developer. Full-Stack MERN Developer.
+Student Developer. Full-Stack MERN Developer. 🧑‍💻
 ----------------------------------------------------
 
 🎓 I'm a Computer Science enthusiast who graduated from Inti International College, with a Diploma in Computer Science. Currently, I'm advancing my knowledge by pursuing a Bachelor of Science with Honours in Computing in collaboration with Coventry University, UK, at Inti International College, Penang, Malaysia.
