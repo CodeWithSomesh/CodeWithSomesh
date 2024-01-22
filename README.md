@@ -8,7 +8,7 @@ Student Developer. Full-Stack MERN Developer.
 
 💻 Over the past year, I've immersed myself in the world of full-stack web development, specializing in the MERN Stack. My passion for this technology stack is evident in the projects I've undertaken, all of which showcase my commitment to creating seamless and efficient web applications.
 
-🚀 On my journey to becoming a 10x Fullstack Web Developer. I take pride in turning web designs into polished and fully functional websites. Check out my portfolio website for a glimpse of some noteworthy projects that reflect my dedication to this craft.
+🚀 On my journey to becoming a 10x Fullstack Web Developer. I take pride in turning web designs into polished and fully functional websites. Check out my portfolio website (Revamping currently) for a glimpse of some noteworthy projects that reflect my dedication to this craft.
 
 ✨ Let's code and build something amazing together! 
 
